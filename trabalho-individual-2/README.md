@@ -1,4 +1,4 @@
-# Projeto Trabalho Individual 1
+# Projeto Trabalho Individual 2
 
 Este projeto implementa o algoritmo de seleção simultânea do maior e menor elemento (MaxMin Select) utilizando a abordagem de divisão e conquista em Python.
 
@@ -92,3 +92,4 @@ A complexidade ciclomática é **4**, indicando que o fluxo do código possui 4 
 2. Caso recursivo: `max1 > max2` e `min1 < min2`
 3. Caso recursivo: `max1 > max2` e `min1 >= min2`
 4. Caso recursivo: `max1 <= max2` (ambos casos de `min1 < min2` ou `min1 >= min2`)
+
