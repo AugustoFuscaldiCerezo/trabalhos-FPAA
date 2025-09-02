@@ -95,5 +95,5 @@ N9 -	fim	Retorno do caso geral
 
 **Calculo:**
 - M = 10 - 9 + 2(1)
-- M = 3 (O número de caminhos possíveis depende do tamanho dos números por conta da recursividade, mas no geral serão 3 caminhos)
+- M = 3 (3 caminhos possíveis)
 
